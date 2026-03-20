@@ -39,13 +39,10 @@ bakery-website/
  ├── index.html
  ├── style.css
  ├── script.js
- └── assets/
+ 
 🚀 Getting Started
 
-Clone the repository
-
-git clone https://github.com/codewithesha2002-design/MEDICORE-HEALTHCARE-APPOINTMENT.git
-
+Clone the repo
 Open in browser
 
 index.html
