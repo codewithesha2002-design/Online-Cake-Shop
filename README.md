@@ -65,6 +65,3 @@ FULL STACK (AI/ML ENGINEER)
 
 This project is built for learning and UI/UX demonstration purposes.
 
-
-
-“Best Seller” badge
